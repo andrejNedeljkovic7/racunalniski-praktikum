@@ -6,3 +6,6 @@
 
 # 2. domača naloga
 # Učim se delati z Gitom - ne vem, zakaj se spremembe včasih ne shranijo
+
+# 7. domača naloga 
+Moja spletna stran: andrejNedeljkovic7.github.io
